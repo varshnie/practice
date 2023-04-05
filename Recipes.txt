@@ -4,5 +4,8 @@ maggi
 pakoda
 fries
 
+Beans
+pizza
+
 
 Thanq
